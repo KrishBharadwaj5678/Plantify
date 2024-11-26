@@ -27,7 +27,7 @@ Follow these simple steps to explore the wonders of nature with PlantAR:
 ---  
 
 ### **Step 4:**  
-📸 **Scan any plant/tree image** you downloaded to reveal detailed 3D models.  
+📸 **Scan any trees image** you downloaded to reveal detailed 3D models.  
 
 ---  
 
