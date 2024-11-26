@@ -1,4 +1,4 @@
-# 🌿 Welcome to PlantAR 🌿  
+# 🌿 Welcome to Plantify 🌿  
 
 **✨ Explore the Natural World in Augmented Reality! ✨**  
 Discover the beauty of nature like never before with **stunning 3D models** of plants and trees that come alive when you scan their images. Dive into an educational and interactive experience—all from your device!  
