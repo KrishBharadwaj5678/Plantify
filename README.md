@@ -32,7 +32,7 @@ Follow these simple steps to explore the wonders of nature with PlantAR:
 ---  
 
 ### **Step 5:**  
-🌟 **Learn and explore** with detailed information and immersive AR visuals of each plant/tree.  
+🌟 **Learn and explore** with detailed information and immersive AR visuals of each trees.  
 
 ---  
 
