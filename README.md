@@ -12,7 +12,7 @@ Follow these simple steps to explore the wonders of nature with PlantAR:
 ---  
 
 ### **Step 1:**  
-🖼️ **Download the plant/tree images** provided in the repository to your device.  
+🖼️ **Download the trees images** provided in the repository to your device.  
 
 ---  
 
