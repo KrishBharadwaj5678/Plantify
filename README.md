@@ -1,39 +1,60 @@
-# 🌿 Welcome to Plantify 🌿  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KrishBharadwaj5678&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
+  <img src="https://hits.sh/github.com/KrishBharadwaj5678/Plantify.svg?style=for-the-badge&label=Repo%20Views&color=blue" />
+  <img src="https://img.shields.io/github/stars/KrishBharadwaj5678/Plantify?style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/github/last-commit/KrishBharadwaj5678/Plantify?style=for-the-badge&color=orange" />
+  <img src="https://img.shields.io/github/repo-size/KrishBharadwaj5678/Plantify?style=for-the-badge&color=blue" />
+</p>
 
-**✨ Explore the Natural World in Augmented Reality! ✨**  
-Discover the beauty of nature like never before with **stunning 3D models** of plants and trees that come alive when you scan their images. Dive into an educational and interactive experience—all from your device!  
+<p align="center">
+  <a href="README.md">English</a> | 
+  <a href="README.pt.md">Português</a> | 
+  <a href="README.ja.md">日本語</a> | 
+  <a href="README.ru.md">Русский</a>
+</p>
 
----  
+<h1 align="center">🌿 Plantify</h1>
 
-### 🌱 **Getting Started is Easy!** 🌱  
+<p align="center">
+  Experience the divine presence of Indian deities through augmented reality, bringing sacred images to life as immersive 3D experiences.
+</p>
 
-Follow these simple steps to explore the wonders of nature with PlantAR:  
+<p align="center">
+  <img src="https://github.com/KrishBharadwaj5678/Plantify/raw/main/readme/demos/Plantify.gif" width="100%" />
+</p>
 
----  
+<img src="https://github.com/KrishBharadwaj5678/Plantify/raw/main/readme/gifs/divider.gif" width="100%"/>
 
-### **Step 1:**  
-🖼️ **Download the trees images** provided in the repository to your device.  
+## <img src="https://github.com/KrishBharadwaj5678/Plantify/raw/main/readme/gifs/howItWorks.gif" width="35"/> How It Works
 
----  
+### 1️⃣ Download the Images
 
-### **Step 2:**  
-📲 **Download the app** using the link provided.  
+- **Download the images** from the repository's `markers` folder to your device.
 
----  
+### 2️⃣ Download the App
 
-### **Step 3:**  
-🎮 **Open the app** and get ready to immerse yourself in nature!  
+- [Download the app](https://drive.google.com/file/d/1JobmB-lE_lUDsedKxQ67v-yJKsacTOae/view?usp=sharing) using the link provided in the repository.
 
----  
+### 3️⃣ Launch the App
 
-### **Step 4:**  
-📸 **Scan any trees image** you downloaded to reveal detailed 3D models.  
+- **Open the app** to begin the immersive augmented reality experience.
 
----  
+### 4️⃣ Scan the Image
 
-### **Step 5:**  
-🌟 **Learn and explore** with detailed information and immersive AR visuals of each trees.  
+- **Scan any downloaded image** using the app to activate the AR experience.
 
----  
+### 5️⃣ Experience in AR
 
-Experience the wonders of nature and bring the world of plants and trees right to your fingertips!  
+- **Explore plants and trees in immersive 3D** and experience it through augmented reality.
+
+<img src="https://github.com/KrishBharadwaj5678/Plantify/raw/main/readme/gifs/divider.gif" width="100%"/>
+
+## <img src="https://github.com/KrishBharadwaj5678/Plantify/raw/main/readme/gifs/license.gif" width="35"/> License
+
+This project is licensed under the **MIT License**.
+
+See the [LICENSE](LICENSE) file for more details.
+
+<p align="center">
+  <img src="https://github.com/KrishBharadwaj5678/Plantify/raw/main/readme/gifs/footer.gif" width="320px"/>
+</p>
