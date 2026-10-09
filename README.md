@@ -16,12 +16,34 @@
 <h1 align="center">🌿 Plantify</h1>
 
 <p align="center">
-  Experience the divine presence of Indian deities through augmented reality, bringing sacred images to life as immersive 3D experiences.
+  Explore nature in AR with interactive 3D plants, detailed insights, and immersive discovery.
 </p>
 
 <p align="center">
   <img src="https://github.com/KrishBharadwaj5678/Plantify/raw/main/readme/demos/Plantify.gif" width="100%" />
 </p>
+
+<img src="https://github.com/KrishBharadwaj5678/Plantify/raw/main/readme/gifs/divider.gif" width="100%"/>
+
+## <img src="https://github.com/KrishBharadwaj5678/Plantify/raw/main/readme/gifs/features.gif" width="35"/> Features
+
+| Feature | Description |
+| --- | --- |
+| 🌳 **Diverse Plants & Trees** | Explore a variety of plants and trees through immersive 3D models |
+| 📖 **Detailed Descriptions** | Learn about plant species, their characteristics, and fascinating facts |
+| 🥽 **Augmented Reality** | Bring plants and trees to life in your real-world environment using AR |
+| 🔊 **Audio Narration** | Listen to engaging audio descriptions and learn about nature hands-free |
+| 🎧 **Audio Controls** | Play, pause, and reset audio narration to explore information at your own pace |
+
+<img src="https://github.com/KrishBharadwaj5678/Plantify/raw/main/readme/gifs/divider.gif" width="100%"/>
+
+## <img src="https://github.com/KrishBharadwaj5678/Plantify/raw/main/readme/gifs/techStack.gif" width="35"/> Tech Stack
+
+| Technology | Purpose |
+| ---------- | ------- |
+| <img src="https://skillicons.dev/icons?i=unity" width="25"/> **Unity** | Game engine for building the interactive AR experience |
+| <img src="https://skillicons.dev/icons?i=cs" width="25"/> **C#** | Scripting application logic, audio controls, and interactive features |
+| <img src="https://github.com/KrishBharadwaj5678/Plantify/raw/main/readme/icons/vuforia.png" width="25"/> **Vuforia** | Enables image recognition and tracking for placing and displaying 3D models |
 
 <img src="https://github.com/KrishBharadwaj5678/Plantify/raw/main/readme/gifs/divider.gif" width="100%"/>
 
