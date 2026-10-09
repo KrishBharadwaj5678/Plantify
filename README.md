@@ -67,7 +67,7 @@
 
 ### 5️⃣ Experience in AR
 
-- **Explore plants and trees in immersive 3D** and experience it through augmented reality.
+- **Explore plants and trees in 3D** and experience it through augmented reality.
 
 <img src="https://github.com/KrishBharadwaj5678/Plantify/raw/main/readme/gifs/divider.gif" width="100%"/>
 
